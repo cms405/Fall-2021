@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-category: Mapping the reading experience
-title: Updates
+category: updates
+title: Mapping the reading experience
 author: Jumana Almahmoud
 ---
 
