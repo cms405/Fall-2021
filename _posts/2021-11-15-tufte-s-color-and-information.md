@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: Tufte's Color and Information
 author: Viviana Rivera
+tags:
+  - Week 10
 ---
 In Tufte’s “Color and Information”, he highlights a few rules for good practices in design all revolving around the use of color. These rules focus on conveying information in a way that is effective and easy for the reader to comprehend and find visually pleasant. One of the quotes that stood out to me during the reading was “so much visual excitement, so little data” when describing ineffective/excessive color usage, ehich is exactly what we want to avoid.
 
