@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: discrete vs continuous
 author: Susanna Chen
 tags:
   - Week 11
