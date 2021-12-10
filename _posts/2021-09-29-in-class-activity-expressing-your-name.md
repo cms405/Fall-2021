@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Assignment 1 - Self Portrait
+title: 'In class activity: Expressing your name'
 author: Annie Zhang
 tags:
   - Week 1
@@ -17,6 +17,3 @@ I missed this in class activity so I'm just posting the fonts I chose here.
 
 ![name_3.png]({{site.baseurl}}/assets/name_3.png)
 3. I really value authenticity and honesty. I think this font, with its handwritten quality, really captures that idea and is similar to how I would genuinely write my name. Also, the script is quite fluid and I think that represents that I'm generally understanding/flexible and open hearing other people's thoughts.
-
-![Frame 10.png]({{site.baseurl}}/assets/Frame 10.png)
-
