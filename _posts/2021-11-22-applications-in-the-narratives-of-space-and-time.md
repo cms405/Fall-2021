@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+category: commentary
+title: Applications in the Narratives of Space and Time
+author: Daniel Zhang
+tags:
+  - Week 11
+---
+In this week’s discussion, I’ll be talking about Chapter 6 of Tufte’s Envisioning Information, focused on the narratives of space and time. One of the more intriguing elements of this chapter was on the discussion of how certain design elements can contribute to an effective or not effective timetable. For example, Tufte hones in on the challenge of developing these timetables – given that they contain large arrays of “fussily annotated numbers, thick information densities, type and image together, and multivariate techniques for narrating what is a four or five variable story.” As a result, there is a dire need to provide an intuitive and self-interpretable format as seen with the China Railroad Timetable and Czechoslovakia Air Transport Company Schedule. Both of these designs use a simple arrangement of circles and lines to deconvulute a mass array of information. In contrast, the New York to New Haven Timetable serves as a negative example of timetables, with a lack of purpose in the distribution of space and efficiency in the display of information. This goes to show that even data that isn’t “chartjunk” needs to be displayed properly, and utilize principles rooted in design and dimensionality reduction. Two additional questions I had from the readings are 1) The author mentions the power of having “the same picture, but many stories.” How do we strike a proper balance between having a clear cut and guided narrative itinerary without offering too much room for interpretation (to the point that it detracts from the desired underlying message). 2) Is there an upper bound to the number of dimensions that can be effectively reduced and convey in a time-table? It seems that as the number of dimensions increases, the barrier to understanding also tends to increase proportionally. 

@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: commentary
+title: Color and Information Best Practices
+author: Ethan Nevidomsky
+---
+In the Dondis readings, he laid out the fundamental elements of visual design, of which color was one of many. One of the issues that Tufte addresses is that often, color is added to data visualizations for its own sake rather than having a specific purpose which obfuscates the data. As with the notion of chartjunk in other manners, I enjoy Tufte's ideal of purpose behind all visual aspects, including the choice of color and inclusion of color itself. I also think the focus on contrast was important and pairs well with Dondis's comments on it, as without thinking about how the colors play off of each other, a whole piece can be noisy or jarring. While there are many different ways to make a successful piece, there are just as many ways to fail, such as by picking colors or a palette that are jarring when next to each other, or by not having enough contrast when color-coding, which can make it hard to extract information from a piece. In terms of artistic background, I enjoyed the comparison to Mondrian pieces, but I think there is inspiration to be drawn from many different art movements, some with more radical choices in color and shape that could still be made pleasing to the eye. While I think nearly all of Tufte's advice is good, one drawback I see is that a lot of his advice is very prescriptivist, which homogenizes the work of the designers who follow him. While this may result in well-crafted pieces, it also makes them less interesting than those who try something new and are constantly pushing the boundaries.
